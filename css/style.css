@@ -1,0 +1,76 @@
+::selection {
+    color: #fff;
+    background: #ff2800;
+  }
+
+  body {
+      background-color: #181818;
+  }
+
+/*HEADER*/
+.bg-header{
+    background: #ff2800;
+}
+
+.links {
+    color: #000!important;
+    font-size: 20px;
+    padding: 5px 10px!important;
+}
+
+.links:hover {
+    color: #fff!important;
+    border-bottom: 1px solid #fff;
+}
+
+/*HOME*/
+.btn-carousel {
+    color: white;
+    background: transparent;
+    border: 1px solid #fff;
+    width: 15%;
+    font-size: 18px;
+}
+
+.btn-carousel:hover {
+    color: #ff2800;
+    border: 1px solid #ff2800;
+}
+
+/*CONTENT*/
+.history, .horse, .red, .formula1 {
+    padding: 60px 0;
+}
+
+.history h1, .horse h1, .red h1, .formula1 h1 {
+    color: #ff2800;
+}
+
+.history p, .horse p, .red p, .formula1 p {
+    font-weight: 500;
+    color: #fff;
+}
+
+/*FOOTER*/
+.bg_footer {
+    background: #000;
+}
+
+footer {
+    padding-bottom: 25px;
+}
+
+footer h4 {
+    color: #ff2800;
+    font-size: 18px;
+    text-transform: uppercase;
+    padding-top: 25px;
+}
+
+footer ul li a {
+    color: #fff;
+}
+
+footer ul li a:hover {
+    color: #ff2800;
+}
